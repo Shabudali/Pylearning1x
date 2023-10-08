@@ -1,0 +1,1 @@
+print("shabuddin", "N", sep="*")
